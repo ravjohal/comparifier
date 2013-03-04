@@ -1,0 +1,14 @@
+# Logfile created on Thu Dec 03 01:47:45 -0800 2009 by /
+LOOOOOOOOOOOOOOOOOOOOOOOOOOOKUUUUUUPPPPPPPP REQUEST: http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=1CFABWVFK15HFNG1D7R2&AssociateTag=comparifier-20&BrowseNodeId=3410851%2C3375301&Operation=BrowseNodeLookup&ResponseGroup=BrowseNodeInfo&Service=AWSECommerceService&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2009-12-03T09%3A48%3A36Z&Version=2009-11-02&Signature=RvR5Vn7lCy%2Bn%2Bk9HOG%2Bqas%2BTC0KP8EoVrYrnlgmVw4g%3D
+
+
+LOOOOOOOOOOOOOOOOOOOOOOOOOOOKUUUUUUPPPPPPPP REQUEST: http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=1CFABWVFK15HFNG1D7R2&AssociateTag=comparifier-20&BrowseNodeId=3411331&Operation=BrowseNodeLookup&ResponseGroup=BrowseNodeInfo&Service=AWSECommerceService&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2009-12-03T09%3A48%3A40Z&Version=2009-11-02&Signature=%2FK7xFxbaAGlFVEH4zqGVXXiy5A8PCewrPbMITt%2FLnhY%3D
+
+
+LOOOOOOOOOOOOOOOOOOOOOOOOOOOKUUUUUUPPPPPPPP REQUEST: http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=1CFABWVFK15HFNG1D7R2&AssociateTag=comparifier-20&BrowseNodeId=679278011&Operation=BrowseNodeLookup&ResponseGroup=BrowseNodeInfo&Service=AWSECommerceService&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2009-12-03T09%3A48%3A43Z&Version=2009-11-02&Signature=uhje3kp2cHwqAlhcsZu9Ym0NRHu8%2FTpeqk1q%2BjV0LTs%3D
+
+
+
+ BROWSENODEID 679278011 SportingGoods
+
+got back items? #<Item:0x7382e24>#<Item:0x7346d20>#<Item:0x733f6b0>#<Item:0x7338040>#<Item:0x7330a48>#<Item:0x73293d8>#<Item:0x7321de0>#<Item:0x57998c0>#<Item:0x57812ac>#<Item:0x575ef7c>

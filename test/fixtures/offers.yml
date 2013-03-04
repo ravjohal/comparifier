@@ -1,0 +1,21 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  merchantID: MyString
+  glancePage: MyString
+  condition: MyString
+  subCondition: MyString
+  price: MyString
+  availability: MyString
+  eligibleforSavingShipping: MyString
+  offerListingID: MyString
+
+two:
+  merchantID: MyString
+  glancePage: MyString
+  condition: MyString
+  subCondition: MyString
+  price: MyString
+  availability: MyString
+  eligibleforSavingShipping: MyString
+  offerListingID: MyString

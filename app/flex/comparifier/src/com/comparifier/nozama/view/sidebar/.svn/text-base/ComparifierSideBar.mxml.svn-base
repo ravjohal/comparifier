@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="400" height="300"
+	xmlns:sidbar="com.comparifier.nozama.view.sidebar.*" 
+	xmlns:cart="com.comparifier.nozama.view.cart.*"
+	>
+	
+	<!-- This is where the Side Bar view code goes...this is the side bar that will contain the Cart, perhaps the Comparifier List, and the Search History -->
+	<cart:ComparifierSubCart />
+	<sidbar:ComparifierSearchHistory />
+	
+</mx:Canvas>

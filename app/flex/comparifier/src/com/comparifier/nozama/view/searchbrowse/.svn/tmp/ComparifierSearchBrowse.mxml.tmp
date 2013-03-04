@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="100%" height="100%"
+	xmlns:searchbrowse="com.comparifier.nozama.view.searchbrowse.*"
+	creationComplete="init()"
+    >
+	
+	<mx:XML id="topLevelCategories" source="../../../../../data/topLevelCategories.xml" />
+	<mx:Script>
+		<![CDATA[
+			import mx.controls.Alert;
+			import mx.events.MenuEvent;
+			import mx.controls.Menu;
+			//begin anthony's imports
+			import mx.managers.PopUpManager;
+			
+			public function onPopUpMenuButtonBrowseRollOver():void{
+				//Might not use this method because where the menu pops up is in a totally different place
+				var browseMenu:Menu = Menu.createMenu(null, topLevelCategories, false);
+				browseMenu.labelField = "@name";
+				browseMenu.show(popUpMenuButtonBrowse.x, popUpMenuButtonBrowse.y + popUpMenuButtonBrowse.height);
+				browseMenu.addEventListener(MenuEvent.ITEM_CLICK, onMenuBrowseItemClick);				
+			}
+			
+			//begin anthony addition
+
+			[Bindable]
+            private var browsePopup:BrowseCategoryWindow;
+
+            private function init():void{}
+
+            /*private function closePopUp(evt:MouseEvent):void {
+                PopUpManager.removePopUp(panel);
+            }*/
+			
+			//end anthony addition
+			
+			
+			public function onPopUpMenuButtonBrowseClick(event:MouseEvent):void{
+				browsePopup = BrowseCategoryWindow(PopUpManager.createPopUp(this,BrowseCategoryWindow,true));
+                browsePopup.title = 'Browse Categories';
+                browsePopup.x = 0;
+                browsePopup.y = -500;
+                browseTransition.end();
+                browseTransition.play();
+			}
+			
+			public function onMenuBrowseItemClick(event:MenuEvent):void{
+				//This is the code that will call something that will call on Ruby with the browseId of the item clicked.
+				//mx.controls.Alert.show(event.item.@browseId);
+			}
+		]]>
+	</mx:Script>
+		
+	<mx:Parallel id="browseTransition" target="{browsePopup}">
+        <mx:Move duration="1000" xTo="{(stage.width  - browsePopup.width) / 2}" yTo="{(stage.height - browsePopup.height) / 2}" />
+        <mx:WipeRight duration="1000" />
+    </mx:Parallel>
+		
+	<mx:TextInput id="keyword" />
+	<mx:Button label="Search" />
+	<mx:PopUpMenuButton id="popUpMenuButtonBrowse" 
+							label="Quick Browse" 
+						    dataProvider="{topLevelCategories}"
+						    labelField="@name"
+						    showRoot="false"
+						    click="onPopUpMenuButtonBrowseClick(event)"
+						    itemClick="onMenuBrowseItemClick(event)"/>
+</mx:HBox>

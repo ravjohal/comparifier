@@ -1,0 +1,41 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: ItemLookup
+  description: Returns some or all of the item attributes, depending on the response group specified in the request
+
+two:
+  name: ItemSearch
+  description: Returns items that satisfy the search criteria, including one or more search indices
+  
+three:
+  name: BrowseNodeLookup
+  description: returns the specified browse node’s name, children, and ancestors
+  
+four:
+  name: CartAdd
+  description: enables you to add items to an existing remote shopping cart. CartAdd can only be used to place a new item in a shopping cart. It cannot be used to increase the quantity of an item already in the cart. If you would like to increase the quantity of an item that is already in the cart, you must use the CartModify operation. 
+
+five:
+  name: CartClear
+  description: enables you to remove all of the items in a remote shopping cart, including SavedForLater items. To remove only some of the items in a cart or to reduce the quantity of one or more items, use  CartModify  
+
+six:
+  name: CartCreate
+  description: enables you to create a remote shopping cart. A shopping cart is the metaphor used by most e-commerce solutions. It is a temporary data storage structure that resides on Amazon servers. The structure contains the items a customer wants to buy. In Amazon Associates Web Service, the shopping cart is considered remote because it is hosted by Amazon servers. In this way, the cart is remote to the vendor's web site where the customer views and selects the items they want to purchase. Once you add an item to a cart by specifying the item's ListItemId and ASIN, or OfferListing ID, the item is assigned a CartItemId and accessible only by that value. That is, in subsequent requests, an item in a cart cannot be accessed by its ListItemId and ASIN, or OfferListingId. CartItemId is returned by CartCreate, CartGet, and CartAdd. 
+
+seven:
+  name: CartGet
+  description: enables you to retrieve the IDs, quantities, and prices of all of the items, including SavedForLater items in a remote shopping cart.
+
+eight:
+  name: CartModify
+  description: enables you to change the quantity of items that are already in a remote shopping cart, move items from the active area of a cart to the SaveForLater area or the reverse, and change the MergeCart setting
+
+nine:
+  name: SellerListingLookup
+  description: enables you to return information about a seller's listings, including product descriptions, availability, condition, and quantity available. The response also includes the seller's nickname. Each request requires a seller ID
+
+ten:
+  name: SimilarityLookup
+  description: returns up to ten products per page that are similar to one or more items specified in the request. This operation is typically used to pique a customer’s interest in buying something similar to what they’ve already ordered. If you specify more than one item, SimilarityLookup returns the intersection of similar items each item would return separately. Alternatively, you can use the SimilarityType parameter to return the union of items that are similar to any of the specified items

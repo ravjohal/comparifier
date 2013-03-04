@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="400" height="300"
+	xmlns:header="com.comparifier.nozama.view.header.*"
+	xmlns:searchbrowse="com.comparifier.nozama.view.searchbrowse.*">
+	
+	<!-- This is the TOP part of the application/website.  This will perhaps contain Logo, Title, Search, Browse? -->
+	<searchbrowse:ComparifierSearchBrowse />
+	
+</mx:Canvas>

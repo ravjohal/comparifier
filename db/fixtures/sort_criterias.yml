@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: salesrank
+  description: Bestselling
+
+two:
+  name: price
+  description: Price, low to high

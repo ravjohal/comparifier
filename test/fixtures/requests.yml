@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  version: MyString
+  keyword: MyString
+  service: MyString
+  request_url: MyString
+  aws_access_key_id: MyString
+  constant_url: MyString
+
+two:
+  version: MyString
+  keyword: MyString
+  service: MyString
+  request_url: MyString
+  aws_access_key_id: MyString
+  constant_url: MyString

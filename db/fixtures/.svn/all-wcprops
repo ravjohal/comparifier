@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/db/fixtures
+END
+operations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/db/fixtures/operations.yml
+END
+parameters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/db/fixtures/parameters.yml
+END
+search_indices.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/db/fixtures/search_indices.yml
+END
+sort_criterias.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/db/fixtures/sort_criterias.yml
+END
+response_groups.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/db/fixtures/response_groups.yml
+END

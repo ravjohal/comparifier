@@ -1,0 +1,175 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: All
+  description: Used to return items from All Departments/Categories.
+  browse_node: n/a
+
+two:
+  name: Apparel
+  description: Used to return items from Apparel.
+  browse_node: 15683091
+
+three:
+  name: Automotive
+  browse_node: 
+
+four:
+  name: Baby
+  browse_node:
+
+five:
+  name: Beauty
+  browse_node:
+
+six:
+  name: Blended
+  browse_node:
+
+seven:
+  name: Books
+  browse_node:
+
+eight:
+  name: Classical
+  browse_node:
+  
+nine:
+  name: DigitalMusic
+  browse_node:
+  
+ten:
+  name: DVD
+  browse_node:
+  
+eleven:
+  name: Electronics
+  browse_node:
+  
+twelve:
+  name: GourmetFood
+  browse_node:
+  
+13:
+  name: HealthPersonalCare
+  browse_node: 
+  
+14:
+  name: HomeGarden
+  browse_node: 
+  
+15:
+  name: Industrial 
+  browse_node: 
+  
+16:
+  name: Jewelry
+  browse_node: 
+  
+17:
+  name: KindleStore
+  browse_node: 
+  
+18:
+  name: Kitchen
+  browse_node: 
+  
+19:
+  name: Magazines
+  browse_node: 
+  
+20:
+  name: Merchants
+  browse_node: 
+  
+21:
+  name: Miscellaneous
+  browse_node: 
+  
+22:
+  name: MP3Downloads
+  browse_node: 
+  
+23:
+  name: Music
+  browse_node: 
+  
+24:
+  name: MusicalInstruments
+  browse_node: 
+  
+25:
+  name: MusicTracks
+  browse_node: 
+  
+26:
+  name: OfficeProducts
+  browse_node: 
+  
+27:
+  name: OutdoorLiving
+  browse_node: 
+  
+28:
+  name: PCHardware
+  browse_node: 
+  
+29:
+  name: PetSupplies
+  browse_node: 
+  
+30:
+  name: Photo
+  browse_node: 
+  
+31:
+  name: Shoes
+  browse_node: 
+  
+32:
+  name: SilverMerchants
+  browse_node: 
+  
+33:
+  name: Software
+  browse_node: 
+  
+34:
+  name: SportingGoods
+  browse_node: 
+    
+35:
+  name: Tools
+  browse_node: 
+    
+36:
+  name: Toys
+  browse_node: 
+    
+37:
+  name: UnboxVideo
+  browse_node: 
+    
+38:
+  name: VHS
+  browse_node: 
+    
+39:
+  name: Video
+  browse_node: 
+    
+40:
+  name: VideoGames
+  browse_node: 
+    
+41:
+  name: Watches
+  browse_node: 
+  
+42:
+  name: Wireless
+  browse_node: 
+  
+43:
+  name: WirelessAccessories
+  browse_node: 

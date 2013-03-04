@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application 
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+    pageTitle="Comparifier - Compare and Buy from Amazon"
+	layout="absolute"
+    creationComplete="onApplicationCreationComplete()"
+    xmlns:homepage="com.comparifier.nozama.view.homepage.*" 
+    xmlns:searchresults="com.comparifier.nozama.view.searchresults.*" 
+    xmlns:cart="com.comparifier.nozama.view.cart.*"
+    xmlns:comparifier="com.comparifier.nozama.view.comparifier.*"
+    xmlns:header="com.comparifier.nozama.view.header.*" 
+    xmlns:business="com.comparifier.nozama.business.*" 
+    xmlns:controller="com.comparifier.nozama.controller.*">
+
+	<mx:Style source="/css/skinMain.css/"/>
+
+	<mx:Script>
+		<![CDATA[
+			
+			import com.comparifier.nozama.model.ComparifierModelLocator;
+			import mx.controls.Alert;
+			
+			private var model : ComparifierModelLocator = ComparifierModelLocator.getInstance();
+			
+			private function onApplicationCreationComplete():void{
+				//This is to get rid of the header for now at the start of the application.
+				header.visible = false;
+				header.includeInLayout = false;
+				//Alert.show("this is the root URL: " + Application.application.url);
+				//TODO: Add something similar to: CairngormEventDispatcher.getInstance().dispatchEvent( new CairngormEvent( GetProductsEvent.EVENT_GET_PRODUCTS ) );
+			}
+			
+		]]>
+	</mx:Script>
+<!-- TODO: Add something similar to: <business:Services id="services" />  and <control:ShopController id="controller" /> -->
+<!-- ========================================================================== -->
+	
+	<!-- the ServiceLocator where we specify the remote services -->
+	<business:Services id="services" />
+	
+	<!-- the FrontController, containing Commands specific to this appliation -->
+	<controller:ComparifierController id="controller" />
+
+<!-- ========================================================================== -->
+
+	<mx:VBox width="100%" height="100%" horizontalAlign="center">
+		<mx:HBox width="100%" height="100%">
+			<mx:Button label="Home" click="topLevelViewStack.selectedChild=home"/>
+			<mx:Button label="Search Results" click="topLevelViewStack.selectedChild=srp" />
+			<mx:Button label="Shopping Cart" click="topLevelViewStack.selectedChild=cart" />
+			<mx:Button label="Comparifier" click="topLevelViewStack.selectedChild=comparison" />
+			
+			<header:ComparifierHeader id="header" width="100%" height="100%" visible="{topLevelViewStack.selectedChild != home}" includeInLayout="{topLevelViewStack.selectedChild != home}" autoLayout="false"/>
+		</mx:HBox>
+		<mx:ViewStack id="topLevelViewStack" width="100%" height="100%" selectedChild="{home}">
+			<homepage:ComparifierHomePage id="home" label="Home" />
+			<searchresults:ComparifierSearchResultsPage id="srp" label="Search Results" />
+			<cart:ComparifierCartPage id="cart" label="Shopping Cart" />
+			<comparifier:ComparifierComparisonPage id="comparison" label="Comparifier" />
+		</mx:ViewStack>
+	</mx:VBox>
+	
+	
+	
+<!--	<mx:HTTPService id="browseNodeLookupRequest" method="POST" resultFormat="e4x" result="sendBrowseNodeLookupRequest(event)" url="/requests/sendBrowseNodeLookupRequest" />
+	<mx:Script source="app/controllers/search.as"/>
+	<mx:XML id="topLevelCategories" source="app/assets/topLevelCategories.xml" />
+	
+	<mx:RemoteObject id="messageService"  
+	  source="RequestsController" destination="rubyamf">	  
+		<mx:method makeObjectsBindable="true" name="associatedSecondLevelCategories" result="associatedSecondLevelCategories(event)" />
+		<mx:method makeObjectsBindable="true" name="allTopLevelCategories" result="allTopLevelCategories(event)" />
+		<mx:method makeObjectsBindable="true" name="createBrowseNodeLookupRequest" result="createBrowseNodeLookupRequest(event)" />
+	</mx:RemoteObject>
+	
+	<mx:HTTPService id="categoryRequest" method="POST" resultFormat="e4x" result="allTopLevelCategories(event)" url="/requests/allTopLevelCategories/electronics" />
+	<mx:HTTPService id="subCategoryRequest" method="POST" resultFormat="e4x" result="associatedSecondLevelCategories(event)" url="/requests/associatedSecondLevelCategories/umm" />
+	
+	<mx:VBox id="topLevelVBox">
+		<mx:PopUpMenuButton id="popUpMenuButtonBrowse" 
+							label="Show All Departments" 
+							dataProvider="{topLevelCategories}" 
+							labelField="@name"
+							rollOver="onPopUpMenuButtonBrowseRollOver(event)" 
+						    click="onPopUpMenuButtonBrowseClick(event)"
+							itemClick="onBrowseMenuClick(event)" 
+							showRoot="false"/>		
+		<mx:Text id="allTop" />
+		<mx:Text id="second" />
+	</mx:VBox>		
+	-->
+</mx:Application>

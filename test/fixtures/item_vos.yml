@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: MyText
+  manufacturer: MyString
+  asin: MyString
+  averageRating: 1.5
+  totalReviews: 1
+  formattedListPrice: 9.99
+  smallImageURL: MyText
+  mediumImageURL: MyText
+  largeImageURL: MyText
+
+two:
+  title: MyText
+  manufacturer: MyString
+  asin: MyString
+  averageRating: 1.5
+  totalReviews: 1
+  formattedListPrice: 9.99
+  smallImageURL: MyText
+  mediumImageURL: MyText
+  largeImageURL: MyText

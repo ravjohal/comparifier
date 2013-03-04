@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="1" name="Books" description="Books Department">
+  	<subcategory id="1a" searchIndex="Books" name="Books" description="" browseId="283155" category_id="1" general_categories=",1000,51546011,388186011,44622011,44258011" isCategoryRoot="0" categoryRoot="1000" isLeafCategory="0" include_categories="" />
+  	<subcategory id="1b" searchIndex="Books" name="Kindle Books" description="" browseId="154606011" category_id="1" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",133141011" />
+  	<subcategory id="1c" searchIndex="Books" name="Textbooks" description="Textbooks Department" browseId="465600" category_id="1" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",251254011" />
+  	<subcategory id="1d" searchIndex="Books" name="Magazines" description="" browseId="599858" category_id="1" general_categories=",599872,51556011,388187011,49601011,44264011" isCategoryRoot="0" categoryRoot="599872" isLeafCategory="0" include_categories="" />
+  </category>
+  <category id="2" name="Movies, Music &amp; Games" description="Movies, Music &amp; Games Department">
+  	<subcategory id="2a" searchIndex="Video" name="Movies &amp; TV" description="" browseId="130" category_id="2" general_categories=",404276,51562011,386709011,49598011,44261011" isCategoryRoot="0" categoryRoot="404276" isLeafCategory="0" include_categories="" />
+  	<subcategory id="2b" searchIndex="Video" name="Blue-Ray" description="" browseId="193640011" category_id="2" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",193639011" />
+  	<subcategory id="2c" searchIndex="Video" name="Video On Demand" description="" browseId="16261631" category_id="2" general_categories=",16261641,42866011,16261651,16261661" isCategoryRoot="0" categoryRoot="16261641" isLeafCategory="0" include_categories="" />
+  	<subcategory id="2d" searchIndex="Music" name="Music" description="Music Department" browseId="5174" category_id="2" general_categories=",301668,51558011,387642011,44722011,44259011" isCategoryRoot="0" categoryRoot="301668" isLeafCategory="0" include_categories="" />
+  	<subcategory id="2e" searchIndex="MP3Downloads" name="MP3 Downloads" description="" browseId="163856011" category_id="2" general_categories=",195208011,195209011,388185011,195210011,195211011,624868011" isCategoryRoot="0" categoryRoot="195208011" isLeafCategory="0" include_categories="" />
+  	<subcategory id="2f" searchIndex="MusicalInstruments" name="Musical Instruments" description="" browseId="11091801" category_id="2" general_categories=",11965861,12923211,12923151,51575011,219887011" isCategoryRoot="0" categoryRoot="11965861" isLeafCategory="0" include_categories="" />
+  	<subcategory id="2g" searchIndex="VideoGames" name="Video Games" description="" browseId="468642" category_id="2" general_categories=",11846801,51550011,345752011,471282,44263011" isCategoryRoot="0" categoryRoot="11846801" isLeafCategory="0" include_categories="" />
+  	<subcategory id="2h" searchIndex="VideoGames" name="Game Downloads" description="" browseId="979455011" category_id="2" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",251261011" />
+  </category>
+  <category id="3" name="Digital Downloads" description="Digital Downloads">
+  	<subcategory id="3a" searchIndex="KindleStore" name="Kindle Store" description="" browseId="133141011" category_id="3" general_categories="" isCategoryRoot="1" categoryRoot="" isLeafCategory="0" include_categories=",133141011" />
+  	<subcategory id="3b" searchIndex="Video" name="Video On Demand" description="" browseId="16261631" category_id="3" general_categories=",16261641,42866011,16261651,16261661" isCategoryRoot="0" categoryRoot="16261641" isLeafCategory="0" include_categories="" />
+  	<subcategory id="3c" searchIndex="MP3Downloads" name="MP3 Downloads" description="" browseId="163856011" category_id="3" general_categories=",195208011,195209011,388185011,195210011,195211011,624868011" isCategoryRoot="0" categoryRoot="195208011" isLeafCategory="0" include_categories="" />
+  	<subcategory id="3d" searchIndex="KindleStore" name="Amazon Shorts" description="" browseId="13993911" category_id="3" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",251254011" />
+  	<subcategory id="3e" searchIndex="VideoGames" name="Game Downloads" description="" browseId="979455011" category_id="3" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",251261011" />
+  </category>
+  <category id="4" name="Kindle" description="">
+  	<subcategory id="4a" searchIndex="KindleStore" name="Books" description="" browseId="154606011" category_id="4" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",133141011" />
+  	<subcategory id="4b" searchIndex="KindleStore" name="Newspapers" description="" browseId="1263068011" category_id="4" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="1" include_categories=",133141011" />
+  	<subcategory id="4c" searchIndex="KindleStore" name="Magazines" description="" browseId="1263069011" category_id="4" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="1" include_categories=",133141011" />
+  	<subcategory id="4d" searchIndex="KindleStore" name="Blogs" description="" browseId="401358011" category_id="4" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="1" include_categories=",133141011" />
+  </category>
+  <category id="5" name="Computers &amp; Office" description="">
+  	<subcategory id="5a" searchIndex="PCHardware" name="Computers &amp; Accessories" description="" browseId="541966" category_id="5" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",541966" />
+  	<subcategory id="5b" searchIndex="PCHardware" name="Computer Components" description="" browseId="193870011" category_id="5" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",541966" />
+  	<subcategory id="5c" searchIndex="Software" name="Software" description="" browseId="229534" category_id="5" general_categories=",491286,409488,51560011,409510,349043011,49599011,44262011" isCategoryRoot="0" categoryRoot="491286" isLeafCategory="0" include_categories="" />
+  	<subcategory id="5d" searchIndex="VideoGames" name="PC Games" description="" browseId="229575" category_id="5" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",11846801" />
+  	<subcategory id="5e" searchIndex="OfficeProducts" name="Office Products &amp; Supplies" description="" browseId="1064954" category_id="5" general_categories=",1086182,1084128,51559011,15891361,1086178,1086594" isCategoryRoot="0" categoryRoot="1084128" isLeafCategory="0" include_categories="" />
+  </category>
+  <category id="6" name="Electronics" description="Electronics Department">
+  	<subcategory id="6a" searchIndex="Electronics" name="Accessories &amp; Supplies" description="" browseId="281407" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6b" searchIndex="Electronics" name="Audio, Video &amp; Home Theater" description="" browseId="1065836" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="1" include_categories=",493964" />
+    <subcategory id="6c" searchIndex="Electronics" name="Camera, Photo &amp; Video" description="" browseId="502394" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6d" searchIndex="Electronics" name="Computers &amp; Add-Ons" description="" browseId="541966" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6e" searchIndex="Electronics" name="GPS &amp; Navigation" description="" browseId="172526" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6f" searchIndex="Electronics" name="Home Audio &amp; Theater" description="" browseId="667846011" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6g" searchIndex="Electronics" name="Marine Electronics" description="" browseId="319574011" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6h" searchIndex="Electronics" name="Office Electronics" description="" browseId="172574" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6i" searchIndex="Electronics" name="Portable Audio &amp; Video" description="" browseId="172623" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6j" searchIndex="Electronics" name="Security &amp; Surveillance" description="" browseId="524136" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6k" searchIndex="Electronics" name="Service &amp; Replacement Plans" description="" browseId="16285901" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6l" searchIndex="Video" name="Television &amp; Video" description="" browseId="1266092011" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6m" searchIndex="Wireless" name="Cell Phones &amp; Services" description="" browseId="301185" category_id="6" general_categories=",408234,13977981,51564011,388190011,301186,508494,551318" isCategoryRoot="0" categoryRoot="408234" isLeafCategory="0" include_categories="" />
+    <subcategory id="6n" searchIndex="VideoGames" name="Video Games" description="Video Game Department" browseId="468642" category_id="6" general_categories=",11846801,51550011,345752011,471282,44263011" isCategoryRoot="0" categoryRoot="11846801" isLeafCategory="0" include_categories="" />
+    <subcategory id="6o" searchIndex="Automotive" name="Car Electronics" description="" browseId="1077068" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",493964" />
+    <subcategory id="6p" searchIndex="HomeGarden" name="Home Appliances" description="Home Appliances Department" browseId="361395011" category_id="6" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+    <subcategory id="6q" searchIndex="MusicalInstruments" name="Musical Instruments" description="" browseId="11091801" category_id="6" general_categories=",11965861,12923211,12923151,51575011,219887011" isCategoryRoot="0" categoryRoot="11965861" isLeafCategory="0" include_categories="" />
+  </category>
+  <category id="7" name="Home &amp; Garden" description="">
+  	<subcategory id="7a" searchIndex="HomeGarden" name="Artwork" description="" browseId="3736081" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7b" searchIndex="HomeGarden" name="Kitchen &amp; Dining" description="" browseId="284507" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7c" searchIndex="HomeGarden" name="Furniture &amp; Décor" description="" browseId="1057794" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7d" searchIndex="HomeGarden" name="Bedding &amp; Bath" description="" browseId="1057792" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7e" searchIndex="HomeGarden" name="Fresh Flowers &amp; Indoor Plants" description="" browseId="3745171" category_id="7" general_categories="" categoryRoot="" isCategoryRoot="0" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7f" searchIndex="HomeGarden" name="Home Appliances" description="" browseId="361395011" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7g" searchIndex="HomeGarden" name="Vacuums, Cleaning &amp; Storage" description="" browseId="510080" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7h" searchIndex="HomeGarden" name="Sewing, Craft &amp; Hobby" description="" browseId="12890711" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7i" searchIndex="HomeGarden" name="Pet Supplies" description="" browseId="12923371" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7j" searchIndex="HomeGarden" name="Patio, Lawn &amp; Garden" description="" browseId="286168" category_id="7" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",1063498" />
+  	<subcategory id="7k" searchIndex="HomeGarden" name="Home Improvement" description="" browseId="228013" category_id="7" general_categories=",228239,468240,51554011,331542011,298527,468248" isCategoryRoot="0" categoryRoot="468240" isLeafCategory="0" include_categories="" />
+  </category>
+  <category id="8" name="Grocery, Health &amp; Beauty" description="">
+  	<subcategory id="8a" searchIndex="Grocery" name="Grocery" description="" browseId="16310101" category_id="8" general_categories=",16310211,114318011,16465181,51536011" isCategoryRoot="0" categoryRoot="16310211" isLeafCategory="0" include_categories="" />
+  	<subcategory id="8b" searchIndex="HealthPersonalCare" name="Natural &amp; Organic" description="" browseId="51537011" category_id="8" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="1" include_categories=",16310211" />
+  	<subcategory id="8c" searchIndex="Grocery" name="Gourmet Food" description="" browseId="3370831" category_id="8" general_categories=",3580501,10361791,3602571,51571011,114302011" isCategoryRoot="0" categoryRoot="3580501" isLeafCategory="0" include_categories="" />
+  	<subcategory id="8d" searchIndex="HealthPersonalCare" name="Health &amp; Personal Care" description="" browseId="3760901" category_id="8" general_categories=",3760931,10781561,10746371,51572011,202788011" isCategoryRoot="0" categoryRoot="3760931" isLeafCategory="0" include_categories="" />
+  	<subcategory id="8e" searchIndex="Beauty" name="Beauty" description="" browseId="3760911" category_id="8" general_categories=",11055981,12880931,12880941,51570011,202791011" isCategoryRoot="0" categoryRoot="11055981" isLeafCategory="0" include_categories="" />
+  </category>
+  <category id="9" name="Toys, Kids &amp; Baby" description="">
+  	<subcategory id="9a" searchIndex="Toys" name="Toys &amp; Games" description="" browseId="165793011" category_id="9" general_categories=",165795011,165794011,219221011,196677011,197717011,166638011,241200011" isCategoryRoot="0" categoryRoot="165795011" isLeafCategory="0" include_categories="" />
+  	<subcategory id="9b" searchIndex="Baby" name="Baby" description="" browseId="165796011" category_id="9" general_categories=",165797011,203533011,197720011,196680011,237790011" isCategoryRoot="0" categoryRoot="165797011" isLeafCategory="0" include_categories="" />
+  	<subcategory id="9c" searchIndex="Baby" name="Apparel (Kids &amp; Baby)" description="" browseId="1040662" category_id="9" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",165795011,1036682" />
+  	<subcategory id="9d" searchIndex="Baby" name="Books" description="" browseId="4" category_id="9" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",165795011,1000" />
+  	<subcategory id="9e" searchIndex="Video" name="Movies" description="" browseId="163414" category_id="9" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",404276,165795011" />
+  	<subcategory id="9f" searchIndex="Music" name="Music" description="" browseId="173425" category_id="9" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",301668,165795011" />
+  	<subcategory id="9g" searchIndex="VideoGames" name="Video Games" description="" browseId="471306" category_id="9" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="1" include_categories=",165795011" />
+  	<subcategory id="9h" searchIndex="Software" name="Software" description="" browseId="229548" category_id="9" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",165795011,491286" />
+  </category>
+  <category id="10" name="Apparel, Shoes &amp; Jewelry" description="">
+  	<subcategory id="10a" searchIndex="Apparel" name="Apparel &amp; Accessories" description="" browseId="1036592" category_id="10" general_categories=",1036682,51569011,388285011,1036684,1036688,1036690,1191306,15683091" isCategoryRoot="0" categoryRoot="1036682" isLeafCategory="0" include_categories="" />
+  	<subcategory id="10b" searchIndex="Shoes" name="Shoes" description="" browseId="672123011" category_id="10" general_categories=",672124011,672125011,679448011,679449011,690057011" isCategoryRoot="0" categoryRoot="672124011" isLeafCategory="0" include_categories="" />
+  	<subcategory id="10c" searchIndex="Jewelry" name="Jewelry" description="" browseId="3367581" category_id="10" general_categories=",3880591,51573011,10699371,10699381,114265011" isCategoryRoot="0" categoryRoot="3880591" isLeafCategory="0" include_categories="" />
+  	<subcategory id="10d" searchIndex="Watches" name="Watches" description="" browseId="377110011" category_id="10" general_categories=",378516011,378517011,378518011,378519011,378520011" isCategoryRoot="0" categoryRoot="378516011" isLeafCategory="0" include_categories="" />
+  </category>
+  <category id="11" name="Sports &amp; Outdoors" description="">
+  	<subcategory id="11a" searchIndex="SportingGoods" name="Exercise &amp; Fitness" description="" browseId="3407731" category_id="11" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",3375301" />
+  	<subcategory id="11b" searchIndex="OutdoorLiving" name="Outdoor Recreation" description="" browseId="706814011" category_id="11" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",3375301" />
+  	<subcategory id="11c" searchIndex="SportingGoods" name="Action Sports" description="" browseId="706812011" category_id="11" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",3375301" />
+  	<subcategory id="11d" searchIndex="SportingGoods" name="Team Sports" description="" browseId="706809011" category_id="11" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",3375301" />
+  	<subcategory id="11e" searchIndex="SportingGoods" name="Cycling" description="" browseId="3403201" category_id="11" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",3375301" />
+  	<subcategory id="11f" searchIndex="SportingGoods" name="Golf" description="" browseId="3410851" category_id="11" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",3375301" />
+  	<subcategory id="11g" searchIndex="SportingGoods" name="Fan Gear" description="" browseId="3386071" category_id="11" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",3375301" />
+  	<subcategory id="11h" searchIndex="OutdoorLiving" name="All Sports &amp; Outdoors" description="" browseId="3375251" category_id="11" general_categories=",3375301,51576011,3564781,3564771,219890011" isCategoryRoot="0" categoryRoot="3375301" isLeafCategory="0" include_categories="" />
+  </category>
+  <category id="12" name="Tools, Auto &amp; Industrial" description="">
+  	<subcategory id="12a" searchIndex="Tools" name="Power &amp; Hand Tools" description="" browseId="328182011" category_id="12" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",468240" />
+  	<subcategory id="12b" searchIndex="Tools" name="Outdoor Power &amp; Lawn Equipment" description="" browseId="551242" category_id="12" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",468240" />
+  	<subcategory id="12c" searchIndex="Automotive" name="Automotive" description="" browseId="15684181" category_id="12" general_categories=",162298011,15690151,51116011,49684011,15690161,15690231" isCategoryRoot="0" categoryRoot="15690151" isLeafCategory="0" include_categories="" />
+  	<subcategory id="12d" searchIndex="Automotive" name="Motorcycle &amp; ATV" description="" browseId="346333011" category_id="12" general_categories="" isCategoryRoot="0" categoryRoot="" isLeafCategory="0" include_categories=",15690151" />
+  	<subcategory id="12e" searchIndex="Industrial" name="Industrial &amp; Scientific" description="" browseId="16310091" category_id="12" general_categories=",16310161,51555011,42432011,16310201,16414501" isCategoryRoot="0" categoryRoot="16310161" isLeafCategory="0" include_categories="" />  
+  </category>
+</categories>

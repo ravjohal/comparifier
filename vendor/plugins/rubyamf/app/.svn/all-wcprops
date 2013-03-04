@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app
+END
+actions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app/actions.rb
+END
+fault_object.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app/fault_object.rb
+END
+amf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app/amf.rb
+END
+request_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app/request_store.rb
+END
+configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app/configuration.rb
+END
+filters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app/filters.rb
+END
+mime_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app/mime_type.rb
+END
+rails_gateway.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/app/rails_gateway.rb
+END

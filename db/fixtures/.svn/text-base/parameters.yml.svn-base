@@ -1,0 +1,58 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+1:
+  name: Actor
+
+2:
+  name: Artist
+
+3:
+  name: AudienceRating
+
+4:
+  name: Author
+
+5:
+  name: Brand
+  
+6:
+  name: BrowseNode
+  
+7:
+  name: City
+
+8:
+  name: Composer
+
+9:
+  name: Conductor
+
+10:
+  name: Director
+
+11:
+  name: Keywords
+
+12:
+  name: Manufacturer
+
+13:
+  name: MusicLabel
+
+14:
+  name: Neighborhood
+
+15:
+  name: Orchestra
+ 
+16:
+  name: Power
+
+17:
+  name: Publisher
+
+18:
+  name: TextStream
+
+19:
+  name: Title

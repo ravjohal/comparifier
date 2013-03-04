@@ -1,0 +1,33 @@
+/* CSS file */
+
+@font-face
+{
+	src:					url("../assets/fonts/Framd.TTF");
+	fontFamily: 			franklin1;
+	font-anti-alias-type: 	advanced;
+	font-weight: 			normal;
+}
+
+
+@font-face
+{
+	src:					url("../assets/fonts/FRABK.TTF");
+	fontFamily: 			franklin;
+	font-anti-alias-type: 	advanced;
+	font-weight: 			normal;
+}
+
+Application
+{
+	font-family: 				franklin;
+	font-size: 					11;
+	color: 						#333333;
+	background-gradient-alphas: 0, 0;
+	background-color: 			#666666;
+	theme-color: 				#333333;
+	font-weight:				normal;
+	background-image:			Embed("/assets/general/bg_srp.jpg");
+	background-size:			"100%";
+	modal-transparency-color:	#000000;
+	modal-transparency-blur:	2;
+}

@@ -1,0 +1,89 @@
+10
+
+dir
+39
+http://svn2.assembla.com/svn/MySideProject/trunk/teamIT/dev/comparifier
+http://svn2.assembla.com/svn/MySideProject
+
+
+
+2009-02-12T04:24:08.934837Z
+39
+ravjohal
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+c1dae7de-a428-49f4-85d8-50b65f41d01d
+
+test
+dir
+
+app
+dir
+
+tmp
+dir
+
+log
+dir
+
+
+
+delete
+
+Rakefile
+file
+
+
+
+
+2009-02-12T04:14:56.371000Z
+17f2f134da4cd31ea095d5868ca89e86
+2009-02-12T03:58:28.226962Z
+36
+ravjohal
+
+script
+dir
+
+db
+dir
+
+doc
+dir
+
+config
+dir
+
+lib
+dir
+
+README
+file
+
+
+
+
+2009-02-12T04:14:56.393000Z
+0cdf56769f20a2b73a929ac3ba633152
+2009-02-12T03:58:28.226962Z
+36
+ravjohal
+
+vendor
+dir
+
+public
+dir
+

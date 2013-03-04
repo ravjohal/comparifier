@@ -1,0 +1,29 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  vendorRequestId: MyString
+  operation: MyString
+  service: MyString
+  accessKeyId: MyString
+  responseType: MyString
+  responseGroup: MyString
+  version: MyString
+  keywords: MyString
+  vendorItemId: MyString
+  response: MyText
+  request: MyText
+  requestDate: 2009-03-31
+
+two:
+  vendorRequestId: MyString
+  operation: MyString
+  service: MyString
+  accessKeyId: MyString
+  responseType: MyString
+  responseGroup: MyString
+  version: MyString
+  keywords: MyString
+  vendorItemId: MyString
+  response: MyText
+  request: MyText
+  requestDate: 2009-03-31

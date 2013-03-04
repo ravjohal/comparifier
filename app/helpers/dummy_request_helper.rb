@@ -1,0 +1,2 @@
+module DummyRequestHelper
+end

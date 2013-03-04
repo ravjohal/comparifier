@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 94
+application.rb
+categories_controller.rb
+operations_controller.rb
+search_indices_controller.rb
+
+END

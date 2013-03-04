@@ -1,0 +1,33 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  actor: MyString
+  address1: MyString
+  address2: MyString
+  address3: MyString
+  amazonMaxAge: 1
+  amazonMinAge: 1
+  amount: MyString
+  apertureModes: MyString
+  artist: MyString
+  asin: MyString
+  aspectRatio: MyString
+  audienceRating: MyString
+  audioFormat: MyString
+  author: MyString
+
+two:
+  actor: MyString
+  address1: MyString
+  address2: MyString
+  address3: MyString
+  amazonMaxAge: 1
+  amazonMinAge: 1
+  amount: MyString
+  apertureModes: MyString
+  artist: MyString
+  asin: MyString
+  aspectRatio: MyString
+  audienceRating: MyString
+  audioFormat: MyString
+  author: MyString

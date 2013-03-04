@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  vendorCategoryId: MyString
+  name: MyString
+  descripton: MyString
+  operation: MyString
+  vendor: MyString
+
+two:
+  vendorCategoryId: MyString
+  name: MyString
+  descripton: MyString
+  operation: MyString
+  vendor: MyString

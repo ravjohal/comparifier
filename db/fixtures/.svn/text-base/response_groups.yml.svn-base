@@ -1,0 +1,130 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+1:
+  name: Accessories
+  
+12:
+  name: AlternateVersions
+  
+13:
+  name: BrowseNodeInfo
+  
+14:
+  name: BrowseNodes
+  
+15:
+  name: Cart
+  
+16:
+  name: CartNewReleases
+  
+17:
+  name: CartTopSellers
+  
+18:
+  name: CartSimilarities
+  
+19:
+  name: Collections
+  
+10:
+  name: EditorialReview
+  
+11:
+  name: Images
+  
+111:
+  name: ItemAttributes
+  
+112:
+  name: ItemIds
+  
+113:
+  name: Large
+  
+114:
+  name: Medium
+  
+115:
+  name: MostGifted
+  
+116:
+  name: MostWishedFor
+  
+117:
+  name: NewReleases
+  
+118:
+  name: OfferFull
+  
+119:
+  name: OfferListings
+  
+120:
+  name: Offers
+  
+121:
+  name: OfferSummary
+  
+122:
+  name: PromotionDetails
+  
+123:
+  name: PromotionSummary
+  
+124:
+  name: RelatedItems
+  
+125:
+  name: Reviews
+  
+126:
+  name: SalesRank
+  
+127:
+  name: SearchBins
+  
+128:
+  name: SellerListing
+  
+129:
+  name: Similarities
+  
+130:
+  name: Small
+  
+131:
+  name: Subjects
+  
+132:
+  name: Tags
+  
+133:
+  name: TagsSummary
+  
+134:
+  name: TopSellers
+  
+135:
+  name: Tracks
+  
+136:
+  name: TransactionDetails
+  
+137:
+  name: VariationMinimum
+  
+138:
+  name: Variations
+  
+139:
+  name: VariationImages
+  
+140:
+  name: VariationMatrix
+  
+141:
+  name: VariationOffers
+  
+142:
+  name: VariationSummary

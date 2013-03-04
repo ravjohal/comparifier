@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="400" height="300"
+	xmlns:comparifier="com.comparifier.nozama.view.comparifier.*">
+	
+	<!-- This is where the COmparifier List Page view is located, where once someone adds stuff to the list, the comparifier button will be made available and this page will contain the comparison table.
+			Perhaps even use ComparifierItemDetails as a subcomponent? -->
+	
+</mx:Canvas>

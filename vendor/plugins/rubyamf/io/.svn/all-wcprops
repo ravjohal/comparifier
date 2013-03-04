@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/io
+END
+amf_deserializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/io/amf_deserializer.rb
+END
+read_write.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/io/read_write.rb
+END
+amf_serializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/vendor/plugins/rubyamf/io/amf_serializer.rb
+END

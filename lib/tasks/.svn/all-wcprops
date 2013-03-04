@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/lib/tasks
+END
+load_data.rake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/lib/tasks/load_data.rake
+END
+delete_fixtures.rake
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/lib/tasks/delete_fixtures.rake
+END

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="400" height="300"
+	xmlns:searchresults="com.comparifier.nozama.view.searchresults.*">
+	
+	<!-- One of the items as a tab from the top part of the website. Perhaps have a TileList that will have as its ItemRenderer the ComparifierItemThumbnail view? -->
+</mx:HBox>

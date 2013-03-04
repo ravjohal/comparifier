@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script/console
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script/runner
+END
+spin
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MySideProject/!svn/ver/112/trunk/teamIT/dev/comparifier/script/spin
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script/generate
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/script/plugin
+END

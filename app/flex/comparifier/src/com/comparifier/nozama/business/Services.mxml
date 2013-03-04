@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<business:ServiceLocator
+    xmlns:mx="http://www.adobe.com/2006/mxml"
+    xmlns:business="com.adobe.cairngorm.business.*">
+
+	<!-- TODO: Add necessary RemoteObjects or HTTPServices here -->
+	
+	<mx:RemoteObject id="browseService"
+	  source="ComparifierRequestsController"
+	  destination="rubyamf">	  
+	  <mx:method name="getBrowseCategories" />
+
+	</mx:RemoteObject>
+	
+	<!--  <mx:method name="createBrowseNodeLookupRequest" result="oncreateBrowseNodeLookupRequestResult(event)" />
+	  <mx:method name="createItemSearchRequest" result="oncreateItemSearchRequestResult(event)" />
+	  <mx:method name="allTopLevelCategories" result="allTopLevelCategories(event)" />
+	  
+	  	  <mx:method name="index" />
+	  <mx:method name="show" />
+	  <mx:method name="new" />
+	  <mx:method name="update" />
+	  -->
+
+	
+    <!--<mx:RemoteObject id="productService" destination="productServiceImpl"
+                            showBusyCursor="true">
+    </mx:RemoteObject>
+
+    <mx:RemoteObject id="creditCardService" destination="creditCardServiceImpl"
+                            showBusyCursor="true">
+    </mx:RemoteObject>-->
+
+
+</business:ServiceLocator>

@@ -1,0 +1,282 @@
+
+*** LOCAL GEMS ***
+
+actionmailer (2.2.2, 2.1.0, 2.0.2)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/actionmailer
+    Homepage: http://www.rubyonrails.org
+    Installed at (2.2.2): c:/ruby/lib/ruby/gems/1.8
+                 (2.1.0): c:/ruby/lib/ruby/gems/1.8
+                 (2.0.2): c:/ruby/lib/ruby/gems/1.8
+
+    Service layer for easy email delivery and testing.
+
+actionpack (2.2.2, 2.1.0, 2.0.2)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/actionpack
+    Homepage: http://www.rubyonrails.org
+    Installed at (2.2.2): c:/ruby/lib/ruby/gems/1.8
+                 (2.1.0): c:/ruby/lib/ruby/gems/1.8
+                 (2.0.2): c:/ruby/lib/ruby/gems/1.8
+
+    Web-flow and rendering framework putting the VC in MVC.
+
+activerecord (2.2.2, 2.1.0, 2.0.2)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/activerecord
+    Homepage: http://www.rubyonrails.org
+    Installed at (2.2.2): c:/ruby/lib/ruby/gems/1.8
+                 (2.1.0): c:/ruby/lib/ruby/gems/1.8
+                 (2.0.2): c:/ruby/lib/ruby/gems/1.8
+
+    Implements the ActiveRecord pattern for ORM.
+
+activeresource (2.2.2, 2.1.0, 2.0.2)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/activeresource
+    Homepage: http://www.rubyonrails.org
+    Installed at (2.2.2): c:/ruby/lib/ruby/gems/1.8
+                 (2.1.0): c:/ruby/lib/ruby/gems/1.8
+                 (2.0.2): c:/ruby/lib/ruby/gems/1.8
+
+    Think Active Record for web resources.
+
+activesupport (2.2.2, 2.1.0, 2.0.2)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/activesupport
+    Homepage: http://www.rubyonrails.org
+    Installed at (2.2.2): c:/ruby/lib/ruby/gems/1.8
+                 (2.1.0): c:/ruby/lib/ruby/gems/1.8
+                 (2.0.2): c:/ruby/lib/ruby/gems/1.8
+
+    Support and utility classes used by the Rails framework.
+
+amazon-ecs (0.5.3)
+    Author: Herryanto Siatono
+    Homepage: http://amazon-ecs.rubyforge.net/
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Generic Amazon E-commerce Service (ECS) REST API. Supports ECS 4.0.
+
+cgi_multipart_eof_fix (2.5.0)
+    Author: Evan Weaver
+    Rubyforge: http://rubyforge.org/projects/mongrel
+    Homepage:
+    http://blog.evanweaver.com/pages/code#cgi_multipart_eof_fix
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Fix an exploitable bug in CGI multipart parsing.
+
+fxri (0.3.6)
+    Author: 
+    Rubyforge: http://rubyforge.org/projects/fxri
+    Homepage: http://rubyforge.org/projects/fxri/
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Graphical interface to the RI documentation, with search engine.
+
+fxruby (1.6.12)
+    Author: Lyle Johnson
+    Homepage: http://www.fxruby.org
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    FXRuby is the Ruby binding to the FOX GUI toolkit.
+
+gem_plugin (0.2.3)
+    Author: Zed A. Shaw
+    Rubyforge: http://rubyforge.org/projects/mongrel
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    A plugin system based on rubygems that uses dependencies only
+
+highline (1.4.0)
+    Author: James Edward Gray II
+    Rubyforge: http://rubyforge.org/projects/highline
+    Homepage: http://highline.rubyforge.org
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    HighLine is a high-level command-line IO library.
+
+hoe (1.7.0)
+    Author: Ryan Davis
+    Rubyforge: http://rubyforge.org/projects/seattlerb
+    Homepage: http://rubyforge.org/projects/seattlerb/
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Hoe is a simple rake/rubygems helper for project Rakefiles
+
+hpricot (0.6)
+    Author: why the lucky stiff
+    Homepage: http://code.whytheluckystiff.net/hpricot/
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    a swift, liberal HTML parser with a fantastic library
+
+log4r (1.0.5)
+    Author: 
+    Homepage: http://log4r.sourceforge.net
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Log4r is a comprehensive and flexible logging library for Ruby.
+
+mongrel (1.1.5)
+    Author: Zed A. Shaw
+    Rubyforge: http://rubyforge.org/projects/mongrel
+    Homepage: http://mongrel.rubyforge.org
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    A small fast HTTP library and server that runs Rails, Camping, Nitro
+    and Iowa apps.
+
+mysql (2.7.3)
+    Author: Kevin Williams
+    Rubyforge: http://rubyforge.org/projects/mysql
+    Homepage: http://mysql-win.rubyforge.org
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    A win32-native build of the MySQL API module for Ruby.
+
+rails (2.2.2, 2.1.0, 2.0.2)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/rails
+    Homepage: http://www.rubyonrails.org
+    Installed at (2.2.2): c:/ruby/lib/ruby/gems/1.8
+                 (2.1.0): c:/ruby/lib/ruby/gems/1.8
+                 (2.0.2): c:/ruby/lib/ruby/gems/1.8
+
+    Web-application framework with template engine, control-flow layer,
+    and ORM.
+
+rake (0.8.3, 0.8.1, 0.7.3)
+    Author: Jim Weirich
+    Rubyforge: http://rubyforge.org/projects/rake
+    Homepage: http://rake.rubyforge.org
+    Installed at (0.8.3): c:/ruby/lib/ruby/gems/1.8
+                 (0.8.1): c:/ruby/lib/ruby/gems/1.8
+                 (0.7.3): c:/ruby/lib/ruby/gems/1.8
+
+    Ruby based make-like utility.
+
+ruby-aaws (0.4.2)
+    Author: Ian Macdonald
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Ruby interface to Amazon Associates Web Services
+
+ruby-debug-base (0.10.0)
+    Author: Kent Sibilev
+    Rubyforge: http://rubyforge.org/projects/ruby-debug
+    Homepage: http://rubyforge.org/projects/ruby-debug/
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Fast Ruby debugger - core component
+
+ruby-debug-ide (0.1.10)
+    Author: Markus Barchfeld, Martin Krauskopf
+    Rubyforge: http://rubyforge.org/projects/debug-commons
+    Homepage: http://rubyforge.org/projects/debug-commons/
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    IDE interface for ruby-debug.
+
+rubyforge (1.0.0)
+    Authors: Ryan Davis, Eric Hodel, Ara T Howard
+    Rubyforge: http://rubyforge.org/projects/codeforpeople
+    Homepage: http://codeforpeople.rubyforge.org/rubyforge/
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    A script which automates a limited set of rubyforge operations
+
+sources (0.0.1)
+    Author: 
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    This package provides download sources for remote gem installation
+
+sqlite3-ruby (1.2.1)
+    Author: Jamis Buck
+    Homepage: http://sqlite-ruby.rubyforge.org/sqlite3
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    SQLite3/Ruby is a module to allow Ruby scripts to interface with a
+    SQLite database.
+
+win32-api (1.0.4)
+    Author: Daniel J. Berger
+    Rubyforge: http://rubyforge.org/projects/win32utils
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    A superior replacement for Win32API
+
+win32-clipboard (0.4.3)
+    Author: Daniel J. Berger
+    Rubyforge: http://rubyforge.org/projects/win32utils
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    A package for interacting with the Windows clipboard
+
+win32-dir (0.3.2)
+    Author: Daniel J. Berger
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Extra constants and methods for the Dir class on Windows.
+
+win32-eventlog (0.4.6)
+    Author: Daniel J. Berger
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Interface for the MS Windows Event Log.
+
+win32-file (0.5.4)
+    Author: Daniel J. Berger
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Extra or redefined methods for the File class on Windows.
+
+win32-file-stat (1.2.7)
+    Author: Daniel J. Berger
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    A File::Stat class tailored to MS Windows
+
+win32-process (0.5.3)
+    Author: Daniel J. Berger
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Adds fork, wait, wait2, waitpid, waitpid2 and a special kill method
+
+win32-sapi (0.1.4)
+    Author: Daniel J. Berger
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    An interface to the MS SAPI (Sound API) library.
+
+win32-sound (0.4.1)
+    Author: Daniel J. Berger
+    Rubyforge: http://rubyforge.org/projects/win32utils
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    A library for playing with sound on MS Windows.
+
+windows-api (0.2.0)
+    Author: Daniel J. Berger
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    An easier way to create methods using Win32API
+
+windows-pr (0.7.2)
+    Author: Daniel J. Berger
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    Installed at: c:/ruby/lib/ruby/gems/1.8
+
+    Windows functions and constants bundled via Win32::API

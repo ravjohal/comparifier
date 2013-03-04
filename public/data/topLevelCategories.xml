@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="1" name="Books" description="Books Department">
+  	<subcategory id="1a" name="Books" description="" browseId="283155" category_id="1" />
+  	<subcategory id="1b" name="Kindle Books" description="" browseId="133141011" category_id="1" />
+  	<subcategory id="1c" name="Textbooks" description="Textbooks Department" browseId="465600" category_id="1" />
+  	<subcategory id="1d" name="Magazines" description="" browseId="599858" category_id="1" />    
+  </category>
+  <category id="2" name="Movies, Music &amp; Games" description="Movies, Music &amp; Games Department">
+  	<subcategory id="2a" name="Movies &amp; TV" description="" browseId="130" category_id="2" />
+  	<subcategory id="2b" name="Blue-Ray" description="" browseId="193640011" category_id="2" />
+  	<subcategory id="2c" name="Video On Demand" description="" browseId="16261631" category_id="2" />
+  	<subcategory id="2d" name="Music" description="Music Department" browseId="5174" category_id="2" />
+  	<subcategory id="2e" name="MP3 Downloads" description="" browseId="163856011" category_id="2" />
+  	<subcategory id="2f" name="Musical Instruments" description="" browseId="11091801" category_id="2" />
+  	<subcategory id="2g" name="Video Games" description="" browseId="468642" category_id="2" />
+  	<subcategory id="2h" name="Game Downloads" description="" browseId="979455011" category_id="2" />
+  </category>
+  <category id="3" name="Digital Downloads" description="Digital Downloads">
+  	<subcategory id="3a" name="Kindle Store" description="" browseId="133141011" category_id="3" />
+  	<subcategory id="3b" name="Video On Demand" description="" browseId="16261631" category_id="3" />
+  	<subcategory id="3c" name="MP3 Downloads" description="" browseId="163856011" category_id="3" />
+  	<subcategory id="3d" name="Amazon Shorts" description="" browseId="13993911" category_id="3" />
+  	<subcategory id="3e" name="Game Downloads" description="" browseId="979455011" category_id="3" />
+  </category>
+  <category id="4" name="Kindle" description="">
+  	<subcategory id="4a" name="Books" description="" browseId="133141011" category_id="4" />
+  	<subcategory id="4b" name="Newspapers" description="" browseId="1263068011" category_id="4" />
+  	<subcategory id="4c" name="Magazines" description="" browseId="1263069011" category_id="4" />
+  	<subcategory id="4d" name="Blogs" description="" browseId="401358011" category_id="4" />
+  </category>
+  <category id="5" name="Computers &amp; Office" description="">
+  	<subcategory id="5a" name="Computers &amp; Accessories" description="" browseId="541966" category_id="5" />
+  	<subcategory id="5b" name="Computer Components" description="" browseId="193870011" category_id="5" />
+  	<subcategory id="5c" name="Software" description="" browseId="229534" category_id="5" />
+  	<subcategory id="5d" name="PC Games" description="" browseId="229575" category_id="5" />
+  	<subcategory id="5e" name="Office Products &amp; Supplies" description="" browseId="1064954" category_id="5" />
+  </category>
+  <category id="6" name="Electronics" description="Electronics Department">
+    <subcategory id="6a" name="Audio, Video &amp; Home Theater" description="" browseId="1065836" category_id="6" />
+    <subcategory id="6b" name="Camera, Photo &amp; Video" description="" browseId="502394" category_id="6" />
+    <subcategory id="6c" name="Cell Phones &amp; Services" description="" browseId="301185" category_id="6" />
+    <subcategory id="6d" name="Video Games" description="Video Game Department" browseId="468642" category_id="6" />
+    <subcategory id="6e" name="MP3 &amp; Media Players" description="" browseId="172630" category_id="6" />
+    <subcategory id="6f" name="Car Electronics &amp; GPS" description="" browseId="1077068" category_id="6" />
+    <subcategory id="6g" name="Home Appliances" description="Home Appliances Department" browseId="361395011" category_id="6" />
+    <subcategory id="6h" name="Musical Instruments" description="" browseId="11091801" category_id="6" />
+  </category>
+  <category id="7" name="Home &amp; Garden" description="">
+  	<subcategory id="7a" name="Kitchen &amp; Dining" description="" browseId="284507" category_id="7" />
+  	<subcategory id="7b" name="Furniture &amp; Décor" description="" browseId="1057794" category_id="7" />
+  	<subcategory id="7c" name="Bedding &amp; Bath" description="" browseId="1057792" category_id="7" />
+  	<subcategory id="7d" name="Home Appliances" description="" browseId="361395011" category_id="7" />
+  	<subcategory id="7e" name="Vacuums, Cleaning &amp; Storage" description="" browseId="510080" category_id="7" />
+  	<subcategory id="7f" name="Sewing, Craft &amp; Hobby" description="" browseId="12890711" category_id="7" />
+  	<subcategory id="7g" name="Pet Supplies" description="" browseId="12923371" category_id="7" />
+  	<subcategory id="7h" name="Patio, Lawn &amp; Garden" description="" browseId="286168" category_id="7" />
+  	<subcategory id="7i" name="Home Improvement" description="" browseId="228013" category_id="7" />
+  </category>
+  <category id="8" name="Grocery, Health &amp; Beauty" description="">
+  	<subcategory id="8a" name="Grocery" description="" browseId="16310101" category_id="8" />
+  	<subcategory id="8b" name="Natural &amp; Organic" description="" browseId="51537011" category_id="8" />
+  	<subcategory id="8c" name="Gourmet Food" description="" browseId="3370831" category_id="8" />
+  	<subcategory id="8d" name="Health &amp; Personal Care" description="" browseId="3760901" category_id="8" />
+  	<subcategory id="8e" name="Beauty" description="" browseId="3760911" category_id="8" />
+  </category>
+  <category id="9" name="Toys, Kids &amp; Baby" description="">
+  	<subcategory id="9a" name="Toys &amp; Games" description="" browseId="165793011" category_id="9" />
+  	<subcategory id="9b" name="Baby" description="" browseId="165796011" category_id="9" />
+  	<subcategory id="9c" name="Apparel (Kids &amp; Baby)" description="" browseId="1040662" category_id="9" />
+  	<subcategory id="9d" name="Books" description="" browseId="4" category_id="9" />
+  	<subcategory id="9e" name="Movies" description="" browseId="163414" category_id="9" />
+  	<subcategory id="9f" name="Music" description="" browseId="173425" category_id="9" />
+  	<subcategory id="9g" name="Video Games" description="" browseId="471306" category_id="9" />
+  	<subcategory id="9h" name="Software" description="" browseId="229548" category_id="9" />
+  </category>
+  <category id="10" name="Apparel, Shoes &amp; Jewelry" description="">
+  	<subcategory id="10a" name="Apparel &amp; Accessories" description="" browseId="1036592" category_id="10" />
+  	<subcategory id="10b" name="Shoes" description="" browseId="672123011" category_id="10" />
+  	<subcategory id="10c" name="Jewelry" description="" browseId="3367581" category_id="10" />
+  	<subcategory id="10d" name="Watches" description="" browseId="377110011" category_id="10" />
+  </category>
+  <category id="11" name="Sports &amp; Outdoors" description="">
+  	<subcategory id="11a" name="Exercise &amp; Fitness" description="" browseId="3407731" category_id="11" />
+  	<subcategory id="11b" name="Outdoor Recreation" description="" browseId="706814011" category_id="11" />
+  	<subcategory id="11c" name="Action Sports" description="" browseId="706812011" category_id="11" />
+  	<subcategory id="11d" name="Team Sports" description="" browseId="706809011" category_id="11" />
+  	<subcategory id="11e" name="Cycling" description="" browseId="3403201" category_id="11" />
+  	<subcategory id="11f" name="Golf" description="" browseId="3410851" category_id="11" />
+  	<subcategory id="11g" name="Fan Gear" description="" browseId="3386071" category_id="11" />
+  	<subcategory id="11h" name="All Sports &amp; Outdoors" description="" browseId="3375251" category_id="11" />
+  </category>
+  <category id="12" name="Tools, Auto &amp; Industrial" description="">
+  	<subcategory id="12a" name="Power &amp; Hand Tools" description="" browseId="328182011" category_id="12" />
+  	<subcategory id="12b" name="Outdoor Power &amp; Lawn Equipment" description="" browseId="551242" category_id="12" />
+  	<subcategory id="12c" name="Automotive" description="" browseId="15684181" category_id="12" />
+  	<subcategory id="12d" name="Motorcycle &amp; ATV" description="" browseId="346333011" category_id="12" />
+  	<subcategory id="12e" name="Industrial &amp; Scientific" description="" browseId="16310091" category_id="12" />  
+  </category>
+</categories>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MySideProject/!svn/ver/142/trunk/teamIT/dev/comparifier/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MySideProject/!svn/ver/89/trunk/teamIT/dev/comparifier/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MySideProject/!svn/ver/109/trunk/teamIT/dev/comparifier/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MySideProject/!svn/ver/135/trunk/teamIT/dev/comparifier/config/environment.rb
+END
+teamIT.pub
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MySideProject/!svn/ver/50/trunk/teamIT/dev/comparifier/config/teamIT.pub
+END
+rubyamf_config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MySideProject/!svn/ver/154/trunk/teamIT/dev/comparifier/config/rubyamf_config.rb
+END
+deploy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MySideProject/!svn/ver/120/trunk/teamIT/dev/comparifier/config/deploy.rb
+END

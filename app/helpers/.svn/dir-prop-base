@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 183
+categories_helper.rb
+operations_helper.rb
+parameters_helper.rb
+requests_helper.rb
+response_groups_helper.rb
+search_indices_helper.rb
+sort_criterias_helper.rb
+sub_categories_helper.rb
+
+END

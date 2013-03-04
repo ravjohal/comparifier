@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="400" height="300"
+	xmlns:cart="com.comparifier.nozama.view.cart.*">
+	
+	<!-- This is the Mini Shopping Cart that is on the side at all times, within the Side Bar -->
+	
+</mx:Canvas>

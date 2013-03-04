@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="400" height="300"
+	xmlns:searchresults="com.comparifier.nozama.view.searchresults.*">
+	
+	<!-- This is the list of search results that the user will have made available to them when they are NOT in the ComparifierSearchResultsPage; perhaps on the sidebar?-->
+	
+</mx:Canvas>

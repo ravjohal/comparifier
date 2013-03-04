@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="1" name="Electronics" description="Electronics Department">
+    <subcategory id="1a" name="Video Games" description="Video Game Department" browseId="468642" category_id="1" />
+    <subcategory id="1b" name="Home Appliances" description="Home Appliances Department" browseId="361395011" category_id="1" />
+  </category>
+  <category id="2" name="Books" description="Books Department">
+    <subcategory id="2a" name="Textbooks" description="Textbooks Department" browseId="465600" category_id="2" />
+  </category>
+  <category id="3" name="Movies, Music &amp; Games" description="Movies, Music &amp; Games Department">
+    <subcategory id="3a" name="Music" description="Music Department" browseId="5174" category_id="3" />
+  </category>
+</categories>

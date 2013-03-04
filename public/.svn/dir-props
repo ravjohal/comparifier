@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 50
+dispatch.cgi
+dispatch.fcgi
+dispatch.rb
+robots.txt
+
+END

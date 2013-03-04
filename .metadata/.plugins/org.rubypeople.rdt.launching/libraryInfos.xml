@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Aptana\Aptana Studio\plugins\org.jruby_1.1.6.8388p3" version="1.8.6" vmTypeId="org.rubypeople.rdt.launching.JRubyVMType">
+<bootpath>
+<entry path="C:/Aptana/Aptana Studio/plugins/org.jruby_1.1.6.8388p3/bin/../lib/ruby/site_ruby/1.8"/>
+<entry path="C:/Aptana/Aptana Studio/plugins/org.jruby_1.1.6.8388p3/bin/../lib/ruby/site_ruby"/>
+<entry path="C:/Aptana/Aptana Studio/plugins/org.jruby_1.1.6.8388p3/bin/../lib/ruby/1.8"/>
+</bootpath>
+</libraryInfo>
+<libraryInfo home="c:\ruby" version="1.8.6" vmTypeId="org.rubypeople.rdt.launching.StandardVMType">
+<bootpath>
+<entry path="c:/ruby/lib/ruby/site_ruby/1.8"/>
+<entry path="c:/ruby/lib/ruby/site_ruby/1.8/i386-msvcrt"/>
+<entry path="c:/ruby/lib/ruby/site_ruby"/>
+<entry path="c:/ruby/lib/ruby/1.8"/>
+<entry path="c:/ruby/lib/ruby/1.8/i386-mswin32"/>
+</bootpath>
+</libraryInfo>
+</libraryInfos>

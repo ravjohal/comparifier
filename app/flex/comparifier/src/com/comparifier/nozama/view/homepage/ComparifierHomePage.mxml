@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="400" height="300"
+	xmlns:homepage="com.comparifier.nozama.view.homepage.*" 
+	xmlns:searchbrowse="com.comparifier.nozama.view.searchbrowse.*">
+	
+	
+	<!-- Obviously, the home page, where you have the search and browse parts -->
+	
+	<mx:Script>
+		<![CDATA[
+			//import anything that is needed
+		]]>
+	</mx:Script>
+	
+	<searchbrowse:ComparifierSearchBrowse />
+</mx:HBox>

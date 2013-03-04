@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:TitleWindow xmlns:mx="http://www.adobe.com/2006/mxml" 
+	layout="vertical" 
+	creationComplete="init()" 
+    close="PopUpManager.removePopUp(this)"
+    showCloseButton="true"
+    headerColors="[#00FFFF,#1F3F62]" 
+    color="#000FFF" 
+    minHeight="400" 
+    minWidth="600"
+    xmlns:searchbrowse="com.comparifier.nozama.view.searchbrowse.*">
+    <mx:Script>
+        <![CDATA[
+            import mx.managers.PopUpManager;
+            import mx.controls.Alert;
+            import com.comparifier.nozama.model.ComparifierModelLocator;
+            import com.comparifier.nozama.controller.ComparifierController;
+            import com.comparifier.nozama.event.GetBrowseCategoriesEvent;
+            import com.adobe.cairngorm.control.CairngormEventDispatcher;
+            
+            [Bindable]
+   			public var model:ComparifierModelLocator = ComparifierModelLocator.getInstance();
+            
+            private function init():void{
+            	//browseCategoriesDataGrid.dataProvider = model.browseCategories;
+            }
+            
+            public function sendSubCategoryRequest(data:Object):void{
+            	var id:String = data.vendorCategoryId;
+            	//Alert.show(id);
+            	var browseEvent:GetBrowseCategoriesEvent = new GetBrowseCategoriesEvent();
+            	browseEvent.browseId = id;
+            	browseEvent.name = data.name;
+            	browseEvent.vendor = data.vendor;
+            	browseEvent.searchIndex = data.searchIndex;
+            	
+            	//Alert.show("Search Index: " + data.searchIndex + " VENDOR: " + data.vendor + "  NAME: " + data.name);
+            	
+            	if(browseEvent.vendor == "Amazon")
+      				browseEvent.operation = "BrowseNodeLookup";
+      			else
+      				browseEvent.operation = "SomeOtherVendor'sOperationThatRepresentsBrowseCategories";
+            	browseEvent.responseGroups = "BrowseNodeInfo";
+            	
+            	CairngormEventDispatcher.getInstance().dispatchEvent( browseEvent );
+            }
+            
+            
+        ]]>
+    </mx:Script>
+        
+    <mx:VBox verticalAlign="middle" horizontalAlign="center">
+        <mx:Text text="Different browse categories will go here laid out in a grid of some sort"/>
+        <mx:List dataProvider="{model.browseCategories}" >
+        	<mx:itemRenderer>
+        		<mx:Component>
+        			<mx:Label text="{data.name}" click="outerDocument.sendSubCategoryRequest(data)"/>
+        		</mx:Component>
+        	</mx:itemRenderer>
+        </mx:List>
+        <mx:List id="items" dataProvider="{model.items}">
+        	<mx:itemRenderer>
+				<mx:Component>
+					<mx:Label text="{data.name}"/>
+				</mx:Component>        		
+        	</mx:itemRenderer>
+        </mx:List>
+        <!--<mx:TileList dataProvider="{model.browseCategories}" direction="vertical" labelField="name" />-->
+        <!--<mx:DataGrid visible="{model.browseCategories != null}" id="browseCategoriesDataGrid" dataProvider="{model.browseCategories}" />-->
+    </mx:VBox>
+    
+</mx:TitleWindow>

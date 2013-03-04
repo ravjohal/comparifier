@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/functional
+END
+requests_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/functional/requests_controller_test.rb
+END
+sort_criterias_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/functional/sort_criterias_controller_test.rb
+END
+response_groups_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/functional/response_groups_controller_test.rb
+END
+operations_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/functional/operations_controller_test.rb
+END
+parameters_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/functional/parameters_controller_test.rb
+END
+search_indices_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/functional/search_indices_controller_test.rb
+END

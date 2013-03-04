@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/unit
+END
+operation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/unit/operation_test.rb
+END
+parameter_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/unit/parameter_test.rb
+END
+request_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/unit/request_test.rb
+END
+sort_criteria_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/unit/sort_criteria_test.rb
+END
+response_group_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/unit/response_group_test.rb
+END
+search_index_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MySideProject/!svn/ver/37/trunk/teamIT/dev/comparifier/test/unit/search_index_test.rb
+END
